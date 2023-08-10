@@ -23,7 +23,7 @@ Flutter | Dart
 | lightBlue | ![#0C9FCC](https://via.placeholder.com/10/0C9FCC?text=+) #0C9FCC |
 
 ## Demo
-![Application Demo](https://github.com/ShambhavII-Singh/BookTickets/blob/master/application%20demo/TravelApp.gif)
+![Application Demo](https://github.com/ShambhavII-Singh/BookTickets/blob/main/application%20demo/TravelApp.gif)
 
 ## Lessons Learned
 - Basic syntax and functionality in Dart
